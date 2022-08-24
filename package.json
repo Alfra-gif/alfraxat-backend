@@ -1,0 +1,34 @@
+{
+  "name": "api-rest-nodejs",
+  "version": "1.0.0",
+  "description": "Projecte Node Escoda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "RamonHM",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "connect-multiparty": "^2.2.0",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.3.0",
+    "mongoose": "^6.3.3",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2",
+    "utf8": "^3.0.0",
+    "utils": "^0.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

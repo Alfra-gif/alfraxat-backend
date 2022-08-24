@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <style>
+            th,td{
+                border: 1px solid black
+            }
+        </style>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <th>codi</th>
+                <th>nom</th>
+                <th>preu</th>
+            </tr>
+            <% JSON.parse(JSON.stringify(project)).forEach(function(project1){ %>
+                <tr>
+                    <% Object.values(project1).forEach(function(c){ %>
+                        <td><%=c %></td>
+                    <% }); %>
+                </tr>
+            <% }); %>
+        </table>
+    </body>
+</html>
