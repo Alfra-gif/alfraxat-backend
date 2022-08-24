@@ -1,8 +1,8 @@
-# alfraxat-backend
-The backend of Alfraxat.
+#Alfraxat backend
 
-The most important things are the following ones:<br>
-I made it using NodeJS and Mongoose.<br>
-It has a working middleware.<br>
-It uses MongoDB to store data.<br>
-Input is only verified by the frontend.
+- It has a working middleware.
+- I store data on a MongoDB Database.
+- It uses a cookie to store and send the user information.
+- All important data sent and recieved is encrypted.
+
+- If you want to try it, you must set both local IPs on the frontend and backend.
