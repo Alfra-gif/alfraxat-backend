@@ -1,5 +1,5 @@
 # alfraxat-backend
-It's the backend of Alfraxat.
+The backend of Alfraxat.
 
 The most important things are the following ones:<br>
 I made it using NodeJS and Mongoose.<br>
