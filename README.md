@@ -1,4 +1,4 @@
-# Alfraxat backend
+# Important things to know:
 
 - It has a working middleware.
 - I store data on a MongoDB Database.
