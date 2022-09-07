@@ -10,3 +10,7 @@
 # Database:
 
 [Database collections.zip](https://github.com/Alfra-gif/alfraxat-backend/files/9418200/Database.collections.zip)
+
+# Documentation
+
+[Documents (catalan).zip](https://github.com/Alfra-gif/alfraxat-backend/files/9508527/Documents.catalan.zip)
